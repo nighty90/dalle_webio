@@ -51,6 +51,6 @@ You can create a JSON file `settings.json` under the same directory as the scrip
 
 + `quality`: Quality of the generated images. Allowed values are "hd" and "standard".
 
-+ `size`: Size of the generated images in the format of "<width>x<height>". Allowed values are "1792x1024", "1024x1024" and "1024x1792".
++ `size`: Size of the generated images in the format of "[width]x[height]". Allowed values are "1792x1024", "1024x1024" and "1024x1792".
 
   
