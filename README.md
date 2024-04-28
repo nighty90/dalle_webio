@@ -8,7 +8,7 @@ Web UI for Dalle 3
 
 1. Clone this repository and change to its directory.
 2. Install python >= 3.10.
-3. Install the requirements: `pip install -r requirements`.
+3. Install the requirements: `pip install -r requirements.txt`.
 4. Run the script: `python dalle_webio.py`.
 
 
